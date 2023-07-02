@@ -1,0 +1,14 @@
+POST https://api.openai.com/v1/chat/completions
+  Content-Type: application/json
+  Authorization: Bearer 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
+
+{
+  "model": "gpt-3.5-turbo",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Generate a CSV with 19 lines. Each line uses one word from this list: \"lutut,tumbuh,kembang,lapang,coba,hasil,dengar,rasa,lihat,terima,hirup,pelajar,kuliah,sekolah,guru,buku,pena,kelas,ujian,nilai\". The columns of the CSV are: \"word in indonesian, word in english, sentence in indonesian using the word, english translation, part of speech of the word\". The delimiter is \";\""
+    }
+  ],
+  "temperature": 0.1
+}
