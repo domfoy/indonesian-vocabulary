@@ -1,21 +1,21 @@
 "words in indonesian";"words in english";"sentence in indonesian using the words";"english translation";"part of speech of the words"
-"abjad";"alphabet";"Saya sedang belajar menghafal abjad.";"I am currently studying to memorize the alphabet.";"noun"
-"abu";"ash";"Setelah kebakaran, sisa-sisa rumah menjadi abu.";"After the fire, the remains of the house turned into ash.";"noun"
-"ada";"exist";"Apakah ada makanan di dalam lemari?";"Is there any food in the fridge?";"verb"
-"ada apa";"what's up";"Hei, ada apa?";"Hey, what's up?";"phrase"
-"adat";"custom";"Mari kita lestarikan adat istiadat nenek moyang kita.";"Let's preserve our ancestors' customs.";"noun"
-"adik";"younger sibling";"Adikku akan datang ke pesta nanti malam.";"My younger sibling will come to the party tonight.";"noun"
-"administrasi";"administration";"Dia bekerja di bagian administrasi kantor.";"He works in the office's administration department.";"noun"
-"aduh";"ouch";"Aduh, kepalamu terbentur meja!";"Ouch, your head hit the table!";"interjection"
-"agak";"quite";"Kamu agak terlambat hari ini.";"You are quite late today.";"adverb"
-"agar";"so that";"Dia belajar dengan rajin agar bisa meraih cita-citanya.";"He studies diligently so that he can achieve his dreams.";"conjunction"
-"agen";"agent";"Agen asuransi akan memberikan penawaran terbaik kepada Anda.";"The insurance agent will provide you with the best offer.";"noun"
-"agen perjalanan";"travel agent";"Saya akan menghubungi agen perjalanan untuk memesan tiket pesawat.";"I will contact the travel agent to book the flight tickets.";"noun"
-"ahli";"expert";"Dia adalah ahli dalam bidang ilmu komputer.";"He is an expert in the field of computer science.";"noun"
-"ahli filsafat";"philosopher";"Kami akan mendiskusikan pemikiran ahli filsafat terkenal ini.";"We will discuss the ideas of this famous philosopher.";"noun"
-"air jeruk";"orange juice";"Tolong berikan saya segelas air jeruk.";"Please give me a glass of orange juice.";"noun"
-"air kelapa";"coconut water";"Minum air kelapa sangat menyegarkan di musim panas.";"Drinking coconut water is very refreshing in the summer.";"noun"
-"air putih";"plain water";"Terbaik untuk menghindari dehidrasi adalah dengan minum air putih.";"The best way to avoid dehydration is by drinking plain water.";"noun"
-"aja";"just";"Kamu harus melakukannya aja, jangan menunggu terlalu lama.";"You should just do it, don't wait too long.";"particle"
-"akan";"will";"Besok, kita akan pergi ke pantai bersama.";"Tomorrow, we will go to the beach together.";"verb"
-"akhir-akhir ini";"lately";"Dia sering terlihat sibuk akhir-akhir ini.";"He has been appearing busy lately.";"adverb"
+"apel";"apple";"Aku punya sebuah apel.";I have an apple.;noun
+"jeruk";"orange";"Andi menyenangi jeruk.";Andi likes oranges.;noun
+"punya";"have";"Tini ingin punya kucing.";Tini wants to have a cat.;verb
+"kucing";"cat";"Kucing itu milikku.";The cat belongs to me.;noun
+"aku";"I";"Aku ingin memakan apel.";I want to eat the apple.;pronoun
+"memakan";"eat";"Andi memakan sebuah apel.";Andi eats an apple.;verb
+"menyenangi";"like";"Tini menyenangi kucing.";Tini likes cats.;verb
+"ingin";"want";"Aku ingin memiliki kucing.";I want to own a cat.;verb
+"kalian";"you all";"Kalian punya sebuah jeruk.";You all have an orange.;pronoun
+"milik";"belongs to";"Kucing itu milik Andi.";The cat belongs to Andi.;verb
+"memiliki";"own";"Andi ingin memiliki kucing itu.";Andi wants to own that cat.;verb
+"mempunyai";"have";"Tini mempunyai sebuah jeruk.";Tini has an orange.;verb
+"meminum";"drink";"Aku ingin meminum air.";I want to drink water.;verb
+"ia";"he/she";"Ia memakan sebutir apel.";He/she eats a piece of apple.;pronoun
+"sebuah apel";"an apple";"Andi mempunyai sebuah apel.";Andi has an apple.;noun
+"sebutir apel";"a piece of apple";"Tini memakan sebutir apel.";Tini eats a piece of apple.;noun
+"tersebut";"that";"Aku ingin meminum air tersebut.";I want to drink that water.;pronoun
+"halo";"hello";"Halo! Apel itu milikku.";Hello! That apple is mine.;interjection
+"Andi";"Andi";"Andi punya jeruk.";Andi has an orange.;proper noun
+"Tini";"Tini";"Tini punya kucing.";Tini has a cat.;proper noun

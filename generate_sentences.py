@@ -1,5 +1,6 @@
 import glob
 import openai
+from config import settings
 import os
 import pathlib
 import re
@@ -12,7 +13,7 @@ CHAT_MESSAGE_TEMPLATE = string.Template(CHAT_MESSAGE_TEMPLATE_RAW)
 
 FIRST_CHUNK = 0
 
-openai.api_key = "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"
+openai.api_key = settings["OPENAI_KEY"]
 
 def make_openai_request(chunk):
   expressions = chunk.split("\n")

@@ -1,1092 +1,960 @@
-abjad
-abu
-ada
-ada apa
-adat
-adik
-administrasi
-aduh
-agak
-agar
-agen
-agen perjalanan
-ahli
-ahli filsafat
-air jeruk
-air kelapa
-air putih
-aja
-akan
-akhir-akhir ini
+apel
+jeruk
+punya
+kucing
 aku
-alam
-alat
-Allah
-Allahu Akbar
-ama
-aman
-anak kecil
-analisa
-Anda
-andai kata
-aneh
-anggota
-angkot
-apa acara
-apaan
-apa kabar
-apakah
-apa lagi
-apalagi
-apotek
-Arab Saudi
-asal
-asli
-atap
-ayah
-ayam goreng
-ayat
-ayo
-badan
-Badan Usaha Milik Negara
-bagaimana kalau
-bagus
-bahagia
-bahasa Belanda
-bahasa Cina
-bahasa Indonesia
-bahasa Inggris
-bahwa
-baik-baik saja
-bajak laut
-baju
-baju tidur
-bak
-bandar udara
-banget
-bangsawan
-bantu
-bantuan
-banyak
-bapak
-barangkali
-barat daya
-barat laut
-batik
-bawang merah
-bebas
-becak
-bedah
-begini
-Belanda
-belok
-belum
-belum biasa
-belum pernah
-bemo
-bendera
-bengkel
-bentuk
-beragama
-beranda
-berangkat
-berani
-berapa
-berapa harga
-berapa kali
-berapa lama
-berapa tahun
-berasal
-berbahasa
-berbahaya
-berbelanja
-berbuka puasa
-bercakap-cakap
-bercerai
-berdagang
-berdansa
-berdarah
-berenang
-beres
-berganti
-bergengsi
-berguna
-berhasil
-berhenti
-berhidung
-berhubungan
-berjalan-jalan
-berjudi
-berjuta-juta
-berkebun
-berkeliling
-berkuasa
-berkumpul
-berkunjung
-berlari
-berlibur
-bermacam-macam
-bermasalah
-bernama
-berobat
-berpacaran
-berpakaian
-berpendapat
-berpengalaman
-berpikir
-berpuasa
-bersalaman
-bersama-sama
-bersedia
-bersejarah
-bersekolah
-bersembahyang
-bersenam
-bersiap-siap
-bersifat
-bersisir
-bersyukur
-bertanding
-bertanggung jawab
-bertanya
-berteriak
-berubah
-berumur
-berurusan
-berwarna
-berwawancara
-besoknya
-betul
-betul-betul
-BH
-biasa
-bidan
-bikin
-bilang
-binatang
-bingung
-biro
-biro pariwisata
-bodoh
-boleh
-boneka
-boros
-botak
-botol
-Bu
-buah-buahan
-buah dada
-buatan
-budaya
-bukan
-bulan depan
-bulan puasa
-bulan yang lalu
-bulu
-bulu tangkis
-BUMN
-bungkus
-bungkusan
-bunyi
-bupati
-bus
-cakep
-camat
-cara
-cari apa
-catatan kuliah
-celana pendek
-celsius
-cemburu
-cepat
-ceret
-cerewet
-cewek
-cobalah
-coklat
-cucian
-cucu
-cuek
-cukup
-cuma
-cuma-cuma
-curiga
-dagangan
-dan
-dansa
-dapat
-dari
-dari mana
-daripada
-dari sana
-dari sini
-dasar
-demam berdarah
-dengan
-detektif
-deterjen
-di
-diaduk
-diajak
-diam-diam
-diantar
-di antaranya
-di atas
-diatur
-dibaca
-dibangun
-dibawa
-di bawah
-di belakang
-dibeli
-diberi
-diberikan
-dibuang
-dibuat
-dibungkus
-dicampur
-dicoba
-dicuci
-di dekat
-di depan
-diganggu
-diganti
-digunakan
-diingat-ingat
-diinginkan
-diisi
-diizinkan
-dijahit
-dijajah
-dijawab
-dijual
-di kanan-kiri
-dikembalikan
-dikenal
-dikirim
-dikunjungi
-dikurangi
-dilihat
-di luar
-di luar negeri
-dimakan
-di mana
-di mana-mana
-diminum
-dinaikkan
-dinyanyikan
-diobati
-dioperasi
-dipegang
-diperbaiki
-diperjualbelikan
-dipinjam
-dipotong
-direbus
-di samping
-di sana
-di sebelah kanan
-di sebelah kiri
-di seberang
-diseterika
-disikat
-disimpan
-di sini
-disuruh
-ditanam
-ditaruh
-di tengah-tengah
-ditolak
-ditulis
-diturunkan
-ditutup
-diulang
-doa
-dokar
-dokter gigi
-dokter hewan
-dosen
-doyan
-dua kali
-duda
-duduk-duduk
-duit
-dulu
-dunia
-durian
-efisien
-ejaan
-ekonomi pertanian
-ekor
-elektronik
-ember
-enak
-fakultas
-Filipina
-film horor
-filsafat
-filsuf
-formulir
-gadis
-gampang
-gang
-ganti
-garasi
-gelar
-gelas
-genteng
-gerakan
-gimana
-goreng
-gudang
-guling
-gunung api
-hadiah
-hal
-Halo
-hampir
-hanya
-harga mati
-harganya
-harga pas
-hari Jumat
-hari Kamis
-hari kerja
-hari libur
-hari Minggu
-hari Natal
-hari Rabu
-hari raya
-hari Sabtu
-hari Selasa
-hari Senin
-hari ulang tahun
-harus
-hasil kerja
-hati
-hati-hati
-helm
-heran
-hiburan
-hidup
-hilang
-Hindia Belanda
-hitam manis
-hobi
-hormat
-HP
-hukum
-ia
-ialah
-ibu
-ibu kos
-ibu kota
-Idul Fitri
-ijazah
-ikat kepala
-iklim
-ikut
-ikut kuliah
-ilmu kimia
-ilmu pengetahuan
-ilmu pengetahuan alam
-ilmu pengetahuan sosial
-imigrasi
-implan
-indah
-Indo
-informasi
-ini
-inilah
-instruksi
-internasional
-isi
-istimewa
-itu
-izin
-jadi
-jahat
-jalan keluar
-jalur
-jam berapa
-jam buka
-jamu
-janda
-jangan
-jangan lupa
-janji
-jantung
-jarang
-jari
-jas
-jatuh
-jatuh sakit
-jawaban
-jenis
-Jerman
-jilbab
-joglo
-jumlah
-juta
-kaca
-kaca mata
-kacang panjang
-kadang-kadang
-kaku
-kalau
-kalau begitu
-kalau...sudah
-kali
-kalo
-kalo pagi
-kamar kecil
-kami
-kampungan
-kampus
-kamu
-kan
-kangkung
-kanker
-karcis
-karena
-kartu pos
-Kartu Tanda Penduduk
-kasihan
-kasino
-katanya
-Katolik
-kau
-kaus
-kaviar
-kawasan
-kawin
-kayu
-kayu jati
-ke
-kebaya
-kebiru-biruan
-kebun
-Kebun Raya
-kecamatan
-kecantikan
-kecewa
-kedua
-kehitam-hitaman
-kejahatan
-kejuruan
-kekuning-kuningan
-kekurangan
-kelab malam
-kelapa
-kelas ekonomi
-kelihatan
-kelihatannya
-keluar
-keluarga
-kelupaan
-kemajuan
-kemaluan
-ke mana
-kembali
-kemerah-merahan
-kemerdekaan
-kemudian
-kena
-kenalan
-kenalkan
-kepada
-kepala desa
-kepala kantor
-kepingin
-kera
-kerajinan tangan
-kerbau
-keriting
-kerupuk
-kesal
-ke sana
-kesenian
-ke sini
-ketemu
-ketimbang
-ketimun
-ketumbar
-ketupat
-kilo
-kita
-kok
-kol
-komoditi
-komplikasi
-komponen
-komposisi
-kopi tubruk
-kosmetik
-kosong
-kotak
-kritikus
-kue kering
-kulkas
-kuning langsat
-kupas
-kurang
-kurang [+adjective]
-kurang banyak
-kurikulum
-kursi malas
-kursi panjang
-laboratorium
-ladang
-lagu
-lahir dan batin
-lain
-lain kali
-lambat
-lancar
-lanjut
-lapangan
-larut malam
-laut
-lebar
-Lebaran
-lebih baik
-lebih banyak
-lebih banyak lagi
-lebih dulu
-lebih jauh lagi
-lebih mahal lagi
-lebih suka
-lemari pakaian
-letusan
-lewat
-lho
-lokasi
-losmen
-lotre
-lu
-lumayan
-lupa
-lurus
-maaf
-mabuk
-macam
-macam-macam
-mahasiswa
-majikan
-maju
-makalah
-makam
-makanan kecil
-makan pagi
-makasih
-mal
-malas
-mancung
-mari
-masak
-masak!
-masakan
-masa kini
-masa lampau
-masih
-masuk angin
-mata angin
-mata kuliah
-mata pelajaran
-mati
-mau
-melamar
-melaporkan
-meletus
-melukis
-memandang
-memasukkan
-membantu
-membawa
-membuang waktu
-membungkus
-membutuhkan
-memecat
+memakan
+menyenangi
+ingin
+kalian
+milik
 memiliki
-memimpin
-meminjam
-memisahkan
-memperjualbelikannya
-memukul
-menambah
-menambahkan
-menanam
-menandatangani
-menaruh
-menasihatkan
-menawarkan
-mencari jalan
-mencintai
-mencium
-mencuri
-mengadakan
-menganggap
-menganggur
-mengantar
-mengatur
-mengecewakan
-mengeluarkan
-mengendarai
-mengerti
-mengetahui
-mengetik
-menggabungkan
-menggambarkan
-menggendong
-menggosok gigi
-menghargai
-mengherankan
-menghidupkan
-menghitung
-menghubungi
-menginap
-mengingkar janji
-mengobati
-mengoleskan
-mengucapkan
-mengusahakan
-mengusulkan
-menjemput
-menjemur
-menjual
-menulis
-menunjuk-nunjuk
-menurut
-menyanyi
-menyanyikan
-menyarankan
-menyeterika
-merdeka
-merusak
-mesjid
-mewah
-mewawancarai
-mikir
-milih
-mimpi
-minggu depan
-minta
-minta diri
-minta maaf
-minta tolong
-minum
-minuman
-minuman keras
-minyak
-misalnya
-moderator
-modern
-mohon
-mohon maaf
-montir
-monumen
-muatan lokal
-mudah-mudahan
-mudik
-mula-mula
-musala
-museum
-musim hujan
-musim kemarau
-mutiara
-nabi
-nah
-naikascend
-naik haji
-nama
-namanya...
-nanti dulu
-nanti malam
-nanti siang
-nanti sore
-napas
-nasi goreng
-nasihat
-nasional
-ndak
-negeri
-ngapain
-nggak
-ngomong
-ngorok
-nih
-nolong
-nomor
-nyaman
-nyanyi
-Nyonya
-O begitu!
-oleh
-ongkos
-orang
-orang asing
-orang desa
-orang sakit
-orang utan
-organisasi
-ortu
-otak
-o ya
-pacaran
-pada
-pada malam hari
-pada pagi hari
-pada siang hari
-pada sore hari
-pada waktu
-pada waktu itu
-padi
-pagar
-pagi-pagi
-pahlawan
-Pak
-pakaian setelan
-pake
-paket
-paling tidak
-panci
-pandangan
-panggung
-panitia
-para
-parlemen
-paru-paru
-pas
-pasangan
-pecah
-pedagang
-peduli
-pegawai negeri
-pelatih
-pelit
-pemakaian
-pemandangan
-pemandangan alam
-pembantu
-pemimpin
-pemirsa
-penampilan
-penari
-penasihat
-pencuri
-pendapat
-pendiam
-pendopo
-peneliti
-pengajar
-pengelola
-penjahat
-penutup
-peraga
-peragaan busana
-peralatan
-perang
-perasaan
-perbedaan
-perbuatan
-percaya diri
-perdana menteri
-pergi
-perhatian
-perintah
-perjalanan
-perkawinan
-perkenalan
-permisi
-persoalan
-perumahan
-pesek
-petugas
-pikiran
-pikir-pikir
-pinjam
-pinjaman
-pintar
-pirang
-poci
-pohon beringin
-pokoknya
-pot bunga
-prakiraan cuaca
-praktis
-Presiden
-prihatin
-program
-provinsi
-puasa
-pulau, Pulau Bali
-puluh
-pura
-pusat
-pusat perbelanjaan
-Puskesmas
-rajin
-ramah
-ramai
-ramalan
-rambutan
-rasanya
-rektor
-rendang
-resmi
-restoran
-ribuan
-riwayat hidup
-royal
-ruang keluarga
-ruang tamu
-rumah adat
-rumah kos
-rumah tangga
-rupanya
-rupiah
-rusak
-sabar
-sadar
-sahur
-saja
-sakit hati
-sakit jantung
-sakit jiwa
-saku
-salon kecantikan
-sama dengan
-sama sekali
-sambal
-sampai di + name of places
-sampai sekarang
-sampanye
-sana
-sangat
-sanggup
-sapu
-sapu tangan
-sarang
-sarapan
-sariawan
-sarjana
-sarjana muda
-sarung
-satai
-satu dua
-Saudara
-sawo matang
-saya
-saya kira
-sayang
-sayuran
-sayur-sayuran
-seandainya
-sebagian besar
-sebagian kecil
-sebentar
-sebetulnya
-sebuah
-sedang apa
-sedikit
-segala-galanya
-seharusnya
-sekamar
-sekeliling
-sekeluarga
-sekian
-sekolah dasar
-sekolah menengah
-Sekolah Menengah Atas
-Sekolah Menengah Pertama
-Sekolah Teknik Atas
-seks
-seksi
-selain
-selama
-selamat
-selamat datang
-Selandia Baru
-selera
-sembuh
-sempurna
-sendirian
-seng
-seolah-olah
-seorang
-sepanjang
-sependapat
-seperempat
-sepi
-serangan
-seribu lima ratus
-serumah
-seseorang
-sesuatu
-sesudah
-setengah
-setia
-setiap
-seumur
-sialan
-siang
-siap
-siap-siap
-sifat
-sih
-sikap
-silakan
-silikon
-SIM
-singgah
-sip
-sipil
-sipit
-sisir
-sistem
-siswa
-skripsi
-soal
-soalnya
-sop
-sopir
-sore
-STNK
-studi
-studi pembangunan
-suara
-suatu
-sudah
-sudah berapa lama
-sudah biasa
-sudah cukup
-sudah pernah
-suka
-suka sekali
-suku
-supaya
-Surat Izin Mengemudi
-surat kabar
-surat lamaran
-Surat Tanda Nomor Kendaraan
-swasta
-taat
-tablet
-tadi
-tadi malam
-tadi pagi
-tadi siang
-Tahun Baru
-tahun berapa
-tahun depan
-takbiran
-tambah
-tampak
-tamu
-tanaman
-tanda tangan
-tanggal
-tanggal berapa
-tanya
-tapi
-tari
-tau
-tawar
-tawar-menawar
-tebal
-teknik elektro
-teknik mesin
-teknik pertanian
-tempat
-tempat duduk
-tempat kerja
-tempat makan
-tempat tinggal
-tempe
-tenggara
-tenggorokan
-tentang
-tentara
-tentu saja
-tepi
-terasa
-terasi
-terbang
-terbuat dari
-terburu-buru
-tergantung
-tergantung pada
-terima kasih
-terima kasih kembali
-terima telepon
-terkejut
-terlalu
-terluka
-terminal bus
-ternyata
-terpaksa
-tersenyum
-terserah
-tersinggung
-tertawa
-terus terang
-tiba
-tiba-tiba
-tidak apa-apa
-tidak begitu
-tidak boleh
-tidak kalah
-tidak kuat
-tidak usah
-timur laut
-tinggal
-tingkat
-toko buku
-tolong
-tonikum
-tradisional
-traktir
-traktor
-tugas
-tuh
-tukang kayu
-tukang listrik
-tukang masak
-tulisan
-turis
-turun
-ucapan
-udah
-udara
-ujung
-ulama
-umum
+mempunyai
+meminum
+ia
+sebuah apel
+sebutir apel
+tersebut
+halo
+Andi
+Tini
+Bali
 umur
-undang-undang
-untuk
-untung
-urusan
-usaha tani
-usus
-waduh
-wah
-wajah
+bagaimana kabarmu ?
+siapakah
+berasal
+berumur
+berusia
+tidak
+di mana
+buku
+surat
+menu
+koran
+anda
+gaun
+tulis
+sepucuk surat
+baca
+selamat pagi
+sampai jumpa
+selamat jalan
+assalamualaikum
+selamat siang
+waalaikumsalam
+selamat tinggal
+selamat malam
+terima kasih banyak
+selamat sore
+sampai jumpa lagi
+salam
+selamat idul fitri
+nasi
+pesan
+sup
+tahu
+kue
+enak
+cokelat
+kecap
+bayar
+memesan
+daftar minuman
+daging ayam
+jus jeruk
+sedap
+nikmat
+susu cokelat
+lada
+roti kacang
+roti pisang
+es teh
+es kopi
+es krim
+teh manis
+teh tawar
+kecap manis
+kecap asin
+beras
+nasi kuning
+ayam panggang
+rumah
+sini
+sekolah
+gedung
+hotel
+situ
+toko
+toilet
+dari situ
+ke situ
+di situ
+kembali
+selesai
+bisa
+tampil
+sepakat
+-ku
+bola
+nama orang
+-mu
+anjing
+-nya
+kepunyaan
+sabuk
+kaus kaki
+bawa
+pakai
+menggunakan
+sepasang sepatu
+tapi
+tetapi
+saat
 waktu
-waktu senggang
-walaupun
-wartawan
-warung
-wawancara
-ya
-yakin
-yang
-yang akan datang
-yang di sana
-yang ini
-yang itu
-yang lain
-yang lalu
-yang mana
-yuk
-Yunani
-zaman
+berada
+bersaing
+berlaku
+berharap
+berjumpa
+kah
+betul
+bila
+bilamana
+jingga
+merah jambu
+warna warni
+melempar
+meminta
+memulai
+menjaga
+mendorong
+menarik
+menurut
+menolak
+menanya
+melindungi
+sedikit
+agak
+tambah
+kurang
+lusin
+selusin
+belas
+kali
+ratus
+ribu
+sejuta
+persen
+semiliar
+miliar
+ketiga
+ratusan
+puluhan
+dibagi
+persentase
+mengingat
+menghadap
+menghilang
+mengganti
+menyentuh
+menyewa
+menyapa
+mengejar
+merawat
+menyala
+paham
+memahami
+mengenang
+tampan
+rumit
+ramah
+nakal
+ragu
+mantap
+basah
+utama
+tutup
+buka
+ganteng
+enteng
+seorang
+keponakan
+adalah
+sepupu
+putra
+putri
+saudari
+tante
+abang
+melahirkan
+hamil
+mertua
+menantu
+ipar
+bapak
+ibunda
+bunda
+kemenakan
+meninggal dunia
+mati
+labu
+wajan
+selai
+mi
+terung
+bawang
+bubur
+keju
+pasta
+spageti
+brokoli
+ubi
+gurih
+jika
+yaitu
+profesi
+karier
+nelayan
+tukang
+raja
+pangeran
+ratu
+hakim
+pembeli
+pemilik
+jurnalis
+pejabat
+prajurit
+pemikir
+dokter umum
+tiukang daging
+tukang jagal
+tukang susu
+tukang jual
+bulan
+petang
+kemarau
+minggu
+setidaknya
+lagi-lagi
+dimulai
+diduga
+didukung
+dipakai
+dilarang
+ditangkap
+dipimpin
+diperiksa
+diproduksi
+dinilai
+dibentuk
+diangkat
+dipilih
+diminta
+ditambah
+dikeluarkan
+diterbitkan
+dikira
+disangka
+disokong
+dibantu
+digunakan
+dicek
+dihasilkan
+dipromosikan
+dahi
+cium
+bau
+sikut
+pergelangan
+telapak
+kuku
+paru
+organ
+badan
+kening
+jidat
+alis mata
+kuping
+belakang
+gelang
+kuku tangan
+telapak kaki
+tapak kaki
+telapak tangan
+tapak tangan
+jempol
+dengkul
+catatan
+hubungan
+tujuan
+pimpinan
+anggaran
+layanan
+dukungan
+urutan
+jabatan
+dugaan
+putaran
+tambahan
+pilihan
+an
+tebakan
+perkiraan
+terkaan
+posisi
+dalam
+balik
+menuju
+kutub
+jarak
+kompas
+Kutub Utara
+Kutub Selatan
+lah
+jaga
+panggil
+serang
+tembak
+kumpul
+biar
+main
+beri
+pasang
+lepas
+pikir
+simpan
+kejar
+potong
+ambil
+lempar
+angkat
+pilih
+tidurlah
+datanglah
+jagalah
+jawablah
+duduklah
+kumpulkan
+bukakan
+pikirkan
+gambarkan
+ubah
+nyanyikan
+ambilkan
+furnitur
+langit-langit
+tangga
+bak mandi
+pemanas
+mainan
+seprai
+tempat sampah
+gerbang
+mebel
+kasur
+ranjang
+gorden
+hewan
+serigala
+kupu-kupu
+serangga
+ikan hiu
+ikan paus
+windu
+dekade
+abad
+awal
+pertengahan
+gugur
+semi
+generasi
+dahulu
+jam delapan
+jam delapan lewat seperempat
+jam delapan lebih seperempat
+setengah sembilan
+jam sembilan kurang seperempat
+jam sembilan
+pukul sembilan
+umumnya
+begitu
+tak
+selamanya
+perlu
+apa saja
+apa pun
+pelabuhan
+pelayanan
+pemanasan
+pertemuan
+pemasukan
+pemilihan
+pertumbuhan
+penciuman
+pendengaran
+pengadilan
+penginapan
+pengeluaran
+penglihatan
+penulisan
+penyerangan
+pertarungan
+peraturan
+perbatasan
+percakapan
+persatuan
+perkembangan
+perlawanan
+perlombaan
+permainan
+persahabatan
+pertahanan
+menakutkan
+hati
+damai
+kaget
+kejutan
+iri
+emosi
+tegang
+menegangkan
+cinta
+kalem
+adil
+memalukan
+imajinasi
+gairah
+jijik
+suasana hati
+secara
+terhadap
+si
+sang
+antara
+serta
+astaga
+astagfirullah
+bagi
+pula
+secara resmi
+secara ragu-ragu
+si Tono
+Sang raja
+Sang ratu
+Sang pangeran
+lagi pula
+tertutup
+tertulis
+terjatuh
+tertentu
+terisi
+teringat
+terkirim
+tersimpan
+terkait
+terlibat
+senyum
+terdiri atas
+terdiri dari
+kerjakan
+siswa
+Indonesia
+jelaskan
+papan
+kantin
+seragam
+teknik
+penjelasan
+perguruan tinggi
+bab
+istirahat
+dihukum
+dipanggil
+halaman
+peringkat
+wisuda
+lulus
+pekerjaan rumah, PR
+mahasiswi
+siswi
+pelajar
+melemparkan
+memainkan
+melanjutkan
+melupakan
+memunculkan
+memasakkan
+membicarakan
+membawakan
+membacakan
+mendirikan
+menjatuhkan
+menjadikan
+mendatangkan
+memecahkan
+memuaskan
+memikirkan
+menuliskan
+menurunkan
+meneruskan
+terbesar
+terakhir
+terbaik
+terkecil
+terkurus
+tergemuk
+tercepat
+terluas
+termurah
+terpenting
+termalas
+tajam
+tumpul
+terkuat
+terkaya
+termerah
+terdangkal
+terdalam
+tertua
+termuda
+mengambilkan
+mengajarkan
+mengingatkan
+menggantikan
+menghilangkan
+menghentikan
+menyimpankan
+menyewakan
+menyambungkan
+mengirimkan
+mengalahkan
+mengembangkan
+mengumpulkan
+merusakkan
+mengemudikan
+pesawat
+bandara
+pengendara
+keterlambatan
+masinis
+kereta
+mengunjungi
+nakhoda
+transportasi
+ojek
+menyetir
+menyopir
+pengemudi
+masinis kereta
+timbangan
+satuan
+miligram
+kedalaman
+ketinggian
+diukur
+belasan
+volume
+ditimbang
+hektar
+lipat
+kecepatan
+per
+ons
+sepertiga
+permukaan
+didirikan
+diharapkan
+dijadikan
+disampaikan
+ditetapkan
+diadakan
+disebabkan
+dikatakan
+dikembangkan
+diselenggarakan
+dilaporkan
+dinyatakan
+dibutuhkan
+diluncurkan
+diumumkan
+dilahirkan
+digantikan
+mengejutkan
+memimpikan
+senyuman
+mengharapkan
+tawa
+harapan
+mengantuk
+aroma
+humor
+ingatan
+dipercaya
+peka
+gugup
+murung
+respek
+benci
+penasaran
+mengagetkan
+menyayangi
+menaruh respek
+semoga
+bengkak
+klinik
+imunisasi
+disuntik
+terkilir
+dibersihkan
+parah
+batuk pilek
+bumi
+polusi
+mencemari
+benih
+lumpur
+planet
+tumbuhan
+gempa
+asap
+temperatur
+badai
+lubang
+samudra
+suhu
+padang pasir
+komunikasi
+pers
+suara
+massa
+teriak
+merekam
+diam
+arti
+pemberitahuan
+situs
+debat
+argumen
+judul
+artikel
+tema
+unduh
+unggah
+pengumuman
+mengontak
+rahasia
+makna
+memasuki
+meliputi
+mewakili
+mengakhiri
+mengikuti
+mengatasi
+mengakui
+menghindari
+mengurangi
+menguasai
+mengenai
+mempelajari
+menyadari
+menangani
+menjalani
+menempati
+menduduki
+mendatangi
+walau
+demi
+debu
+terbuat
+tembaga
+besi
+pasir
+karet
+plastik
+logam
+senjata
+palang
+kabel
+objek
+nampan
+memuat
+pengecas
+pedang
+bubuk
+album
+adaptor
+tanda
+roda
+pulpen
+robot
+benang
+nyala
+cahaya
+padam
+korek api
+titik
+fungsi
+material
+pencarian
+teori
+dampak
+energi
+metode
+analisis
+rumus
+penemuan
+batas
+skala
+lingkaran
+segitiga
+atmosfer
+sinar
+ilmiah
+daftar
+reaksi
+teknologi
+grafik
+perhitungan
+sudut
+konsep
+dihubungi
+diketahui
+diikuti
+disertai
+diakui
+dimiliki
+dilengkapi
+ditemui
+dialami
+dihadiri
+ditangani
+dikelilingi
+dinamai
+didampingi
+dipenuhi
+ditandai
+dilindungi
+dipengaruhi
+diyakini
+dipahami
+dikuasai
+dicapai
+dijumpai
+disukai
+disetujui
+dimintai
+ditandatangani
+diawali
+dilayani
+dihadapi
+dibatasi
+karya
+film
+sinetron
+ritme
+puisi
+artis
+cerpen
+konser
+peran
+musisi
+lirik
+wayang
+disutradarai
+dibintangi
+irama
+tuhan
+berdoa
+malaikat
+setan
+islam
+katolik
+hindu
+dewa
+dewi
+kristen
+buddha
+beribadah
+wihara
+pastor
+neraka
+surga
+jiwa
+candi
+dukun
+santet
+hantu
+sembahyang
+khotbah
+dosa
+pahala
+natal
+lebaran
+paskah
+merayakan
+amal
+sedekah
+Selamat hari natal
+Dewa Matahari
+Dewi Bulan
+Dewi Takdir
+memperkuat
+memperlemah
+memperpanjang
+memperpendek
+mempermudah
+memperbanyak
+memperbesar
+mempersulit
+memperkecil
+mempercepat
+memperlambat
+memperburuk
+memperkaya
+memperketat
+memperluas
+usaha
+saham
+pembelian
+rekening
+pajak
+konsumsi
+keuntungan
+kekayaan
+konsumen
+pengangguran
+penawaran
+biaya
+seekor
+segelas
+sepucuk
+secangkir
+sepotong
+sepiring
+butir
+selembar
+sebutir
+semangkuk
+lembar
+sehelai
+sebatang
+helai
+batang
+sebuah
+sejumlah
+diperkuat
+diperoleh
+diperlemah
+diperpanjang
+diperpendek
+diperbanyak
+dipermudah
+dipersulit
+diperkecil
+dipercepat
+diperbesar
+diperlambat
+diperburuk
+diperluas
+diperketat
+diperkaya
+kompetisi
+menendang
+balapan
+gol
+aba-aba
+memenangi
+raket
+hak
+kekuasaan
+kewajiban
+revolusi
+partai
+keadilan
+krisis
+politik
+kementerian
+kekerasan
+konflik
+mayoritas
+oposisi
+menteri
+wali kota
+calon
+balai kota
+bangsa
+majelis
+peristiwa
+demokrasi
+berjuang
+pemilih
+senator
+pidato
+majelis hakim
+majelis tinggi
+pemerintah pusat
+ruang
+kabupaten
+gua
+wilayah
+rute
+jawa
+penjara
+aula
+kematian
+kebaikan
+keberuntungan
+kebiasaan
+kebenaran
+keburukan
+keindahan
+keperluan
+bermain-main
+berjaga-jaga
+berhati-hati
+berpura-pura
+berturut-turut
+kelompok
+penduduk
+populasi
+kerumunan
+kenal
+mengenali
+klien
+tawanan
+nona
+nyonya
+musuh
+tuan
+grup
+kebudayaan
+tahanan
+pejalan
+pelaku
+pembaca
+penyewa
+pendiri
+pendengar
+pelukis
+pemakai
+pemberi
+pencuci
+pendatang
+pengirim
+pengisi
+pengunjung
+pengembang
+penggali
+pembicara
+pembuat
+pembuka
+penonton
+pendukung
+pejalan kaki
+pendatang baru
+Amerika Serikat
+benua
+Tiongkok
+Swiss
+Tionghoa

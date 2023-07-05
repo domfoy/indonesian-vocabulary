@@ -5,6 +5,8 @@ name = "pypi"
 
 [packages]
 openai = "*"
+configparser = "*"
+dynaconf = "*"
 
 [dev-packages]
 
